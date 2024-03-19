@@ -1,6 +1,6 @@
 # simp_weather
 
-##This app is still in development
+## This app is still in development
 
 A new Flutter project.
 
